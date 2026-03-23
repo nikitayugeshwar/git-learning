@@ -1,2 +1,2 @@
-const name = "nikita";
-console.log("git learning");
+const name = "Yugeshwar nikita";
+console.log("Hii, baby welcome to git learning with " + name);
